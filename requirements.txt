@@ -1,0 +1,4 @@
+python-telegram-bot
+Django
+beautifulsoup4
+asgiref
